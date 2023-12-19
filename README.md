@@ -1,2 +1,2 @@
 # Face-Detection-and-Recognition
-A model to detect faces out of any image and compare all of them to a databse and check for any matches. Used DeepFace library. Dataset used- Celebrity Faces from kaggle.
+A model to detect faces out of any image and compare all of them to a databse and check for any matches. The model uses state of the art Facenet model, RetinaFace backend and EUclidean metric system. It can be used for sentinent analysis as well as Safety and fraud detection models. Used DeepFace and OpenCV library,without any APIs to prevent any breach of data. Dataset used- Celebrity Faces from kaggle.
